@@ -1,8 +1,4 @@
-# SpiceNews
-
-Run the below artisan cmd
-
-$ php artisan serv
+# SpiceNews App
 
 *Laravel version 5.5
 
@@ -11,6 +7,9 @@ $ php artisan serv
 *No database connection needed
 
 *Bootstrap library used
+
+Artisan cmd to run
+$ php artisan serv
 
 Home - http://localhost:8000/
 
@@ -25,5 +24,4 @@ https://newsapi.org/
 https://www.spiceblue.com/
 
 Author:
-
 tamiloct22@gmail.com
